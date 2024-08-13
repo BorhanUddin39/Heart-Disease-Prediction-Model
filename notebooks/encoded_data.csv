@@ -1,0 +1,720 @@
+Age,Sex,Chest Pain,Rest BP,Cholesterol,Fasting Sugar,Rest ECG,Max HR,Ex Angina,ST Depression,ST Slope,Fluoroscopy,Thalassemia,Heart Disease
+28.0,male,atypical angina,130.0,132.0,false,left ventricular hypertrophy,185.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+29.0,male,atypical angina,120.0,243.0,false,normal,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+29.0,male,atypical angina,140.0,230.7530864197531,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+30.0,female,typical angina,170.0,237.0,false,ST-T wave abnormality,170.0,no,0.0,upsloping,0 vessels,fixed defect,< 50% diameter narrowing
+31.0,female,atypical angina,100.0,219.0,false,ST-T wave abnormality,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+32.0,female,atypical angina,105.0,198.0,false,normal,165.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+32.0,male,atypical angina,110.0,225.0,false,normal,184.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+32.0,male,atypical angina,125.0,254.0,false,normal,155.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+33.0,male,non-anginal pain,120.0,298.0,false,normal,185.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+34.0,female,atypical angina,130.0,161.0,false,normal,190.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+34.0,male,atypical angina,150.0,214.0,false,ST-T wave abnormality,168.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+34.0,male,atypical angina,98.0,220.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+35.0,female,typical angina,120.0,160.0,false,ST-T wave abnormality,185.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+35.0,female,asymptomatic,140.0,167.0,false,normal,150.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+35.0,male,atypical angina,120.0,308.0,false,left ventricular hypertrophy,180.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+35.0,male,atypical angina,150.0,264.0,false,normal,168.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+36.0,male,atypical angina,120.0,166.0,false,normal,180.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+36.0,male,non-anginal pain,112.0,340.0,false,normal,184.0,no,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+36.0,male,non-anginal pain,130.0,209.0,false,normal,178.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+36.0,male,non-anginal pain,150.0,160.0,false,normal,172.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+37.0,female,atypical angina,120.0,260.0,false,normal,130.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+37.0,female,non-anginal pain,130.0,211.0,false,normal,142.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+37.0,female,asymptomatic,130.0,173.0,false,ST-T wave abnormality,184.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+37.0,male,atypical angina,130.0,283.0,false,ST-T wave abnormality,98.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+37.0,male,non-anginal pain,130.0,194.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+37.0,male,asymptomatic,120.0,223.0,false,normal,168.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+37.0,male,asymptomatic,130.0,315.0,false,normal,158.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+38.0,female,atypical angina,120.0,275.0,false,normal,129.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+38.0,male,atypical angina,140.0,297.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+38.0,male,non-anginal pain,145.0,292.0,false,normal,130.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,female,non-anginal pain,110.0,182.0,false,ST-T wave abnormality,180.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,atypical angina,120.0,230.7530864197531,false,ST-T wave abnormality,146.0,no,2.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,atypical angina,120.0,200.0,false,normal,160.0,yes,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+39.0,male,atypical angina,120.0,204.0,false,normal,145.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,atypical angina,130.0,230.7530864197531,false,normal,120.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,atypical angina,190.0,241.0,false,normal,106.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,non-anginal pain,120.0,339.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,non-anginal pain,160.0,147.0,true,normal,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,asymptomatic,110.0,273.0,false,normal,132.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,male,asymptomatic,130.0,307.0,false,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+40.0,male,atypical angina,130.0,275.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+40.0,male,atypical angina,140.0,289.0,false,normal,172.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+40.0,male,non-anginal pain,130.0,215.0,false,normal,138.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+40.0,male,non-anginal pain,130.0,281.0,false,normal,167.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+40.0,male,non-anginal pain,140.0,216.34375,false,normal,188.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,female,atypical angina,110.0,250.0,false,ST-T wave abnormality,142.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,female,atypical angina,125.0,184.0,false,normal,180.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,female,atypical angina,130.0,245.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,male,atypical angina,120.0,291.0,false,ST-T wave abnormality,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,male,atypical angina,120.0,295.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,male,atypical angina,125.0,269.0,false,normal,144.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,male,asymptomatic,112.0,250.0,false,normal,142.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+42.0,female,non-anginal pain,115.0,211.0,false,ST-T wave abnormality,137.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+42.0,male,atypical angina,120.0,196.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+42.0,male,atypical angina,120.0,198.0,false,normal,155.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+42.0,male,atypical angina,150.0,268.0,false,normal,136.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+42.0,male,non-anginal pain,120.0,228.0,false,normal,152.0,yes,1.5,flat,0 vessels,normal,< 50% diameter narrowing
+42.0,male,non-anginal pain,160.0,147.0,false,normal,146.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+42.0,male,asymptomatic,140.0,358.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,typical angina,100.0,223.0,false,normal,142.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,atypical angina,120.0,201.0,false,normal,165.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,atypical angina,120.0,215.0,false,ST-T wave abnormality,175.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,atypical angina,120.0,249.0,false,ST-T wave abnormality,176.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,atypical angina,120.0,266.0,false,normal,118.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,atypical angina,150.0,186.0,false,normal,154.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,non-anginal pain,150.0,250.11111111111111,false,normal,175.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,male,atypical angina,142.0,207.0,false,normal,138.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+44.0,female,asymptomatic,120.0,218.0,false,ST-T wave abnormality,115.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+44.0,male,atypical angina,120.0,184.0,false,normal,142.0,no,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+44.0,male,atypical angina,130.0,215.0,false,normal,135.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+44.0,male,asymptomatic,150.0,412.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,female,atypical angina,130.0,237.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,female,atypical angina,180.0,250.62,false,normal,180.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,female,asymptomatic,132.0,297.0,false,normal,144.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+45.0,male,atypical angina,140.0,224.0,true,normal,122.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,male,non-anginal pain,135.0,216.34375,false,normal,110.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,male,asymptomatic,120.0,225.0,false,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,male,asymptomatic,140.0,224.0,false,normal,144.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+46.0,female,asymptomatic,130.0,238.0,false,normal,90.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+46.0,male,atypical angina,140.0,275.0,false,normal,165.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+46.0,male,non-anginal pain,120.0,230.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+46.0,male,non-anginal pain,150.0,163.0,false,normal,116.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+46.0,male,asymptomatic,110.0,238.0,false,ST-T wave abnormality,140.0,yes,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+46.0,male,asymptomatic,110.0,240.0,false,ST-T wave abnormality,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+46.0,male,asymptomatic,180.0,280.0,false,ST-T wave abnormality,120.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+47.0,female,atypical angina,140.0,257.0,false,normal,135.0,no,1.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+47.0,female,non-anginal pain,130.0,250.11111111111111,false,normal,145.0,no,2.0,flat,0 vessels,normal,< 50% diameter narrowing
+47.0,male,typical angina,110.0,249.0,false,normal,150.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+47.0,male,atypical angina,160.0,263.0,false,normal,174.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+47.0,male,asymptomatic,140.0,276.0,true,normal,125.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,female,atypical angina,127.32075471698113,308.0,false,ST-T wave abnormality,153.77358490566039,no,2.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,female,atypical angina,120.0,250.62,true,ST-T wave abnormality,148.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,female,atypical angina,120.0,284.0,false,normal,120.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,female,non-anginal pain,120.0,195.0,false,normal,125.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,female,asymptomatic,108.0,163.0,false,normal,175.0,no,2.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,female,asymptomatic,120.0,254.0,false,ST-T wave abnormality,110.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+48.0,female,asymptomatic,150.0,227.0,false,normal,130.0,yes,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+48.0,male,atypical angina,100.0,230.7530864197531,false,normal,100.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,male,atypical angina,130.0,245.0,false,normal,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,male,atypical angina,140.0,238.0,false,normal,118.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,male,non-anginal pain,110.0,211.0,false,normal,138.0,no,0.0,upsloping,0 vessels,fixed defect,< 50% diameter narrowing
+49.0,female,atypical angina,110.0,250.62,false,normal,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+49.0,female,atypical angina,124.0,201.0,false,normal,164.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+49.0,female,non-anginal pain,130.0,207.0,false,ST-T wave abnormality,135.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+49.0,male,atypical angina,100.0,253.0,false,normal,174.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+49.0,male,non-anginal pain,140.0,187.0,false,normal,172.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+49.0,male,asymptomatic,120.0,297.0,false,normal,132.0,no,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+49.0,male,asymptomatic,140.0,234.77551020408163,false,normal,130.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+50.0,female,atypical angina,110.0,202.0,false,normal,145.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+50.0,female,asymptomatic,120.0,328.0,false,normal,110.0,yes,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+50.0,male,atypical angina,120.0,168.0,false,normal,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+50.0,male,atypical angina,140.0,216.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+50.0,male,atypical angina,170.0,209.0,false,ST-T wave abnormality,116.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+50.0,male,asymptomatic,140.0,129.0,false,normal,135.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+50.0,male,asymptomatic,150.0,215.0,false,normal,140.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,female,atypical angina,160.0,194.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,female,non-anginal pain,110.0,190.0,false,normal,120.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,female,non-anginal pain,130.0,220.0,false,normal,160.0,yes,2.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,female,non-anginal pain,150.0,200.0,false,normal,120.0,no,0.5,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,male,atypical angina,125.0,188.0,false,normal,145.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,male,atypical angina,130.0,224.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,male,asymptomatic,130.0,179.0,false,normal,100.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+52.0,female,atypical angina,120.0,210.0,false,normal,148.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+52.0,female,atypical angina,140.0,250.62,false,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+52.0,female,non-anginal pain,125.0,272.0,false,normal,139.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+52.0,female,asymptomatic,130.0,180.0,false,normal,140.0,yes,1.5,flat,0 vessels,normal,< 50% diameter narrowing
+52.0,male,atypical angina,120.0,284.0,false,normal,118.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+52.0,male,atypical angina,140.0,100.0,false,normal,138.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+52.0,male,atypical angina,160.0,196.0,false,normal,165.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+52.0,male,non-anginal pain,140.0,259.0,false,ST-T wave abnormality,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,female,atypical angina,113.0,468.0,false,normal,127.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,female,atypical angina,140.0,216.0,false,normal,142.0,yes,2.0,flat,0 vessels,normal,< 50% diameter narrowing
+53.0,female,non-anginal pain,120.0,274.0,false,normal,130.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,male,atypical angina,120.0,230.7530864197531,false,normal,132.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,male,atypical angina,140.0,320.0,false,normal,162.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,male,non-anginal pain,120.0,195.0,false,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,male,asymptomatic,124.0,260.0,false,ST-T wave abnormality,112.0,yes,3.0,flat,0 vessels,normal,< 50% diameter narrowing
+53.0,male,asymptomatic,130.0,182.0,false,normal,148.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,male,asymptomatic,140.0,243.0,false,normal,155.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,120.0,221.0,false,normal,138.0,no,1.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,120.0,230.0,true,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,120.0,273.0,false,normal,150.0,no,1.5,flat,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,130.0,253.0,false,ST-T wave abnormality,155.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,140.0,309.0,false,ST-T wave abnormality,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,150.0,230.0,false,normal,130.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,160.0,312.0,false,normal,130.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,typical angina,120.0,171.0,false,normal,137.0,no,2.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,atypical angina,110.0,208.0,false,normal,142.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,atypical angina,120.0,238.0,false,normal,154.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,atypical angina,120.0,246.0,false,normal,110.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,atypical angina,160.0,195.0,false,ST-T wave abnormality,130.0,no,1.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,atypical angina,160.0,305.0,false,normal,175.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,non-anginal pain,120.0,217.0,false,normal,137.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,non-anginal pain,150.0,216.34375,false,normal,122.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,asymptomatic,150.0,365.0,false,ST-T wave abnormality,134.0,no,1.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,female,atypical angina,110.0,344.0,false,ST-T wave abnormality,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,female,atypical angina,122.0,320.0,false,normal,155.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,female,atypical angina,130.0,394.0,false,left ventricular hypertrophy,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,male,atypical angina,120.0,256.0,true,normal,137.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+55.0,male,atypical angina,140.0,196.0,false,normal,150.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+55.0,male,atypical angina,145.0,326.0,false,normal,155.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,male,non-anginal pain,110.0,277.0,false,normal,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,male,non-anginal pain,120.0,220.0,false,left ventricular hypertrophy,134.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,male,asymptomatic,120.0,270.0,false,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,male,asymptomatic,140.0,229.0,false,normal,110.0,yes,0.5,flat,0 vessels,normal,< 50% diameter narrowing
+56.0,female,non-anginal pain,130.0,219.0,false,ST-T wave abnormality,164.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+56.0,male,atypical angina,130.0,184.0,false,normal,100.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+56.0,male,non-anginal pain,130.0,216.34375,false,normal,114.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+56.0,male,non-anginal pain,130.0,276.0,false,normal,128.0,yes,1.0,upsloping,0 vessels,fixed defect,< 50% diameter narrowing
+56.0,male,asymptomatic,120.0,85.0,false,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+57.0,female,typical angina,130.0,308.0,false,normal,98.0,no,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+57.0,female,asymptomatic,180.0,347.0,false,ST-T wave abnormality,126.0,yes,0.8,flat,0 vessels,normal,< 50% diameter narrowing
+57.0,male,atypical angina,140.0,260.0,true,normal,140.0,no,0.0,upsloping,0 vessels,fixed defect,< 50% diameter narrowing
+58.0,male,atypical angina,130.0,230.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+58.0,male,atypical angina,130.0,251.0,false,normal,110.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+58.0,male,non-anginal pain,140.0,179.0,false,normal,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+58.0,male,asymptomatic,135.0,222.0,false,normal,100.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+59.0,female,atypical angina,130.0,188.0,false,normal,124.0,no,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+59.0,male,atypical angina,140.0,287.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+59.0,male,non-anginal pain,130.0,318.0,false,normal,120.0,yes,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+59.0,male,non-anginal pain,180.0,213.0,false,normal,100.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+59.0,male,asymptomatic,140.0,234.77551020408163,false,normal,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+60.0,male,non-anginal pain,120.0,246.0,false,left ventricular hypertrophy,135.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+61.0,female,asymptomatic,130.0,294.0,false,ST-T wave abnormality,120.0,yes,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+61.0,male,asymptomatic,125.0,292.0,false,ST-T wave abnormality,115.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+62.0,female,typical angina,160.0,193.0,false,normal,116.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+62.0,male,atypical angina,140.0,271.0,false,normal,152.0,no,1.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+31.0,male,asymptomatic,120.0,270.0,false,normal,153.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+33.0,female,asymptomatic,100.0,246.0,false,normal,150.0,yes,1.0,flat,0 vessels,normal,> 50% diameter narrowing
+34.0,male,typical angina,140.0,156.0,false,normal,180.0,no,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+35.0,male,atypical angina,110.0,257.0,false,normal,140.0,no,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+36.0,male,atypical angina,120.0,267.0,false,normal,160.0,no,3.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+37.0,male,asymptomatic,140.0,207.0,false,normal,130.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+38.0,male,asymptomatic,110.0,196.0,false,normal,166.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+38.0,male,asymptomatic,120.0,282.0,false,normal,170.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+38.0,male,asymptomatic,92.0,117.0,false,normal,134.0,yes,2.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+40.0,male,asymptomatic,120.0,466.0,false,normal,152.0,yes,1.0,flat,1 vessel,fixed defect,> 50% diameter narrowing
+41.0,male,asymptomatic,110.0,289.0,false,normal,170.0,no,0.0,flat,1 vessel,fixed defect,> 50% diameter narrowing
+41.0,male,asymptomatic,120.0,237.0,false,normal,138.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+43.0,male,asymptomatic,150.0,247.0,false,normal,130.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+46.0,male,asymptomatic,110.0,202.0,false,normal,150.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+46.0,male,asymptomatic,118.0,186.0,false,normal,124.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+46.0,male,asymptomatic,120.0,277.0,false,normal,125.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+47.0,male,non-anginal pain,140.0,193.0,false,normal,145.0,yes,1.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+47.0,male,asymptomatic,150.0,226.0,false,normal,98.0,yes,1.5,flat,0 vessels,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,106.0,263.0,true,normal,110.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,120.0,260.0,false,normal,115.0,no,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,160.0,268.0,false,normal,103.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+49.0,female,non-anginal pain,160.0,180.0,false,normal,156.0,no,1.0,flat,,normal,> 50% diameter narrowing
+49.0,male,non-anginal pain,115.0,265.0,false,normal,175.0,no,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+49.0,male,asymptomatic,130.0,206.0,false,normal,170.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+50.0,female,non-anginal pain,140.0,288.0,false,normal,140.0,yes,0.0,flat,,reversible defect,> 50% diameter narrowing
+50.0,male,asymptomatic,145.0,264.0,false,normal,150.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+51.0,female,asymptomatic,160.0,303.0,false,normal,150.0,yes,1.0,flat,0 vessels,normal,> 50% diameter narrowing
+52.0,male,asymptomatic,130.0,225.0,false,normal,120.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,125.0,216.0,false,normal,140.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,125.0,224.0,false,normal,122.0,no,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+55.0,male,asymptomatic,140.0,201.0,false,normal,130.0,yes,3.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+57.0,male,atypical angina,140.0,265.0,false,ST-T wave abnormality,145.0,yes,1.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+58.0,male,non-anginal pain,130.0,213.0,false,ST-T wave abnormality,140.0,no,0.0,flat,0 vessels,fixed defect,> 50% diameter narrowing
+59.0,female,asymptomatic,130.0,338.0,true,ST-T wave abnormality,130.0,yes,1.5,flat,0 vessels,normal,> 50% diameter narrowing
+60.0,male,asymptomatic,100.0,248.0,false,normal,125.0,no,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+63.0,male,asymptomatic,150.0,223.0,false,normal,115.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+65.0,male,asymptomatic,140.0,306.0,true,normal,87.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+32.0,male,asymptomatic,118.0,529.0,false,normal,130.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+38.0,male,asymptomatic,110.0,198.93893129770993,false,normal,150.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+39.0,male,asymptomatic,110.0,280.0,false,normal,150.0,no,0.0,flat,1 vessel,fixed defect,> 50% diameter narrowing
+40.0,female,asymptomatic,150.0,392.0,false,normal,130.0,no,2.0,flat,0 vessels,fixed defect,> 50% diameter narrowing
+43.0,male,typical angina,120.0,291.0,false,ST-T wave abnormality,155.0,no,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+45.0,male,asymptomatic,130.0,219.0,false,ST-T wave abnormality,130.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+46.0,male,asymptomatic,120.0,231.0,false,normal,115.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+46.0,male,asymptomatic,130.0,222.0,false,normal,112.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,122.0,275.0,true,ST-T wave abnormality,150.0,yes,2.0,downsloping,1 vessel,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,160.0,193.0,false,normal,102.0,yes,3.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,160.0,329.0,false,normal,92.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,160.0,355.0,false,normal,99.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+50.0,male,asymptomatic,130.0,233.0,false,normal,121.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,120.0,182.0,false,normal,150.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,170.0,198.93893129770993,false,normal,126.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+53.0,male,asymptomatic,120.0,246.0,false,normal,116.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,non-anginal pain,120.0,237.0,false,normal,150.0,yes,1.5,flat,0 vessels,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,130.0,242.0,false,normal,91.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,130.0,603.0,true,normal,125.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,140.0,198.93893129770993,false,normal,118.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,200.0,198.0,false,normal,142.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+55.0,male,asymptomatic,140.0,268.0,false,normal,128.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+56.0,male,asymptomatic,150.0,213.0,true,normal,125.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+57.0,male,asymptomatic,150.0,255.0,false,normal,92.0,yes,3.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+58.0,male,non-anginal pain,160.0,211.0,true,ST-T wave abnormality,92.0,no,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+58.0,male,asymptomatic,130.0,263.0,false,normal,140.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+41.0,male,asymptomatic,130.0,172.0,false,ST-T wave abnormality,130.0,no,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+43.0,male,asymptomatic,120.0,175.0,false,normal,120.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+44.0,male,atypical angina,150.0,288.0,false,normal,150.0,yes,3.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+44.0,male,asymptomatic,130.0,290.0,false,normal,100.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+46.0,male,typical angina,140.0,272.0,true,normal,175.0,no,2.0,flat,0 vessels,normal,> 50% diameter narrowing
+47.0,female,non-anginal pain,135.0,248.0,true,normal,170.0,no,0.0,flat,,normal,> 50% diameter narrowing
+48.0,female,asymptomatic,138.0,214.0,false,normal,108.0,yes,1.5,flat,0 vessels,normal,> 50% diameter narrowing
+49.0,male,asymptomatic,130.0,341.0,false,normal,120.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+49.0,male,asymptomatic,140.0,234.0,false,normal,140.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+51.0,male,non-anginal pain,135.0,160.0,false,normal,150.0,no,2.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,112.0,342.0,false,ST-T wave abnormality,96.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,130.0,298.0,false,normal,110.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,140.0,404.0,false,normal,124.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,160.0,246.0,false,ST-T wave abnormality,82.0,yes,4.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+53.0,male,non-anginal pain,145.0,518.0,false,normal,130.0,no,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+53.0,male,asymptomatic,180.0,285.0,false,ST-T wave abnormality,120.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,140.0,216.0,false,normal,105.0,no,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+55.0,male,typical angina,140.0,295.0,false,normal,136.0,no,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+55.0,male,atypical angina,160.0,292.0,true,normal,143.0,yes,2.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+55.0,male,asymptomatic,145.0,248.0,false,normal,96.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+56.0,female,atypical angina,120.0,279.0,false,normal,150.0,no,1.0,flat,1 vessel,normal,> 50% diameter narrowing
+56.0,male,asymptomatic,150.0,230.0,false,ST-T wave abnormality,124.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+56.0,male,asymptomatic,170.0,388.0,false,ST-T wave abnormality,122.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+58.0,male,atypical angina,136.0,164.0,false,ST-T wave abnormality,99.0,yes,2.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+59.0,male,asymptomatic,130.0,198.93893129770993,false,normal,125.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+59.0,male,asymptomatic,140.0,264.0,true,left ventricular hypertrophy,119.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+65.0,male,asymptomatic,170.0,263.0,true,normal,112.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+66.0,male,asymptomatic,140.0,198.93893129770993,false,normal,94.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+41.0,male,asymptomatic,120.0,336.0,false,normal,118.0,yes,3.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+43.0,male,asymptomatic,140.0,288.0,false,normal,135.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+44.0,male,asymptomatic,135.0,491.0,false,normal,135.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+47.0,female,asymptomatic,120.0,205.0,false,normal,98.0,yes,2.0,flat,0 vessels,fixed defect,> 50% diameter narrowing
+47.0,male,asymptomatic,160.0,291.0,false,ST-T wave abnormality,158.0,yes,3.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+49.0,male,asymptomatic,128.0,212.0,false,normal,96.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+49.0,male,asymptomatic,150.0,222.0,false,normal,122.0,no,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+50.0,male,asymptomatic,140.0,231.0,false,ST-T wave abnormality,140.0,yes,5.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+50.0,male,asymptomatic,140.0,341.0,false,ST-T wave abnormality,125.0,yes,2.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,140.0,266.0,false,normal,134.0,yes,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,160.0,331.0,false,normal,94.0,yes,2.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,female,non-anginal pain,130.0,294.0,false,ST-T wave abnormality,100.0,yes,0.0,flat,,normal,> 50% diameter narrowing
+56.0,male,asymptomatic,155.0,342.0,true,normal,150.0,yes,3.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+58.0,female,atypical angina,180.0,393.0,false,normal,110.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+65.0,male,asymptomatic,130.0,275.0,false,ST-T wave abnormality,115.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+32.0,male,typical angina,95.0,0.0,false,normal,127.0,no,0.7,upsloping,0 vessels,normal,> 50% diameter narrowing
+34.0,male,asymptomatic,115.0,0.0,false,normal,154.0,no,0.2,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+35.0,male,asymptomatic,130.2608695652174,0.0,false,normal,130.0,yes,1.384090909090909,flat,2 vessels,reversible defect,
+36.0,male,asymptomatic,110.0,0.0,false,normal,125.0,yes,1.0,flat,1 vessel,fixed defect,> 50% diameter narrowing
+38.0,female,asymptomatic,105.0,0.0,false,normal,166.0,no,2.8,upsloping,0 vessels,reversible defect,
+38.0,female,asymptomatic,110.0,0.0,false,normal,156.0,no,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+38.0,male,non-anginal pain,100.0,0.0,false,normal,179.0,no,-1.1,upsloping,0 vessels,normal,< 50% diameter narrowing
+38.0,male,non-anginal pain,115.0,0.0,false,normal,128.0,yes,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+38.0,male,asymptomatic,135.0,0.0,false,normal,150.0,no,0.0,flat,1 vessel,normal,
+38.0,male,asymptomatic,150.0,0.0,false,normal,120.0,yes,1.085925925925926,flat,1 vessel,normal,> 50% diameter narrowing
+40.0,male,asymptomatic,95.0,0.0,false,ST-T wave abnormality,144.0,no,0.0,upsloping,1 vessel,reversible defect,
+41.0,male,asymptomatic,125.0,0.0,false,normal,176.0,no,1.6,upsloping,1 vessel,reversible defect,
+42.0,male,asymptomatic,105.0,0.0,false,normal,128.0,yes,-1.5,downsloping,1 vessel,reversible defect,> 50% diameter narrowing
+42.0,male,asymptomatic,145.0,0.0,false,normal,99.0,yes,0.0,flat,1 vessel,reversible defect,
+43.0,male,asymptomatic,100.0,0.0,false,normal,122.0,no,1.5,downsloping,2 vessels,reversible defect,
+43.0,male,asymptomatic,115.0,0.0,false,normal,145.0,yes,2.0,flat,3 vessels,reversible defect,
+43.0,male,asymptomatic,140.0,0.0,false,ST-T wave abnormality,140.0,yes,0.5,upsloping,1 vessel,reversible defect,
+45.0,male,non-anginal pain,110.0,0.0,false,normal,138.0,no,-0.1,upsloping,0 vessels,normal,< 50% diameter narrowing
+46.0,male,asymptomatic,100.0,0.0,false,ST-T wave abnormality,133.0,no,-2.6,flat,1 vessel,reversible defect,> 50% diameter narrowing
+46.0,male,asymptomatic,115.0,0.0,false,normal,113.0,yes,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+47.0,male,non-anginal pain,110.0,0.0,false,normal,120.0,yes,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+47.0,male,non-anginal pain,155.0,0.0,false,normal,118.0,yes,1.0,flat,0 vessels,normal,
+47.0,male,asymptomatic,110.0,0.0,false,ST-T wave abnormality,149.0,no,2.1,upsloping,1 vessel,reversible defect,
+47.0,male,asymptomatic,160.0,0.0,false,normal,124.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+48.0,male,asymptomatic,115.0,0.0,false,normal,128.0,no,0.0,flat,1 vessel,fixed defect,
+50.0,female,asymptomatic,160.0,0.0,false,normal,110.0,no,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+50.0,male,asymptomatic,115.0,0.0,false,normal,120.0,yes,0.5,flat,2 vessels,fixed defect,
+50.0,male,asymptomatic,120.0,0.0,false,ST-T wave abnormality,156.0,yes,0.0,upsloping,2 vessels,fixed defect,
+50.0,male,asymptomatic,145.0,0.0,false,normal,139.0,yes,0.7,flat,1 vessel,reversible defect,> 50% diameter narrowing
+51.0,female,asymptomatic,120.0,0.0,false,normal,127.0,yes,1.5,upsloping,0 vessels,reversible defect,
+51.0,male,asymptomatic,110.0,0.0,false,normal,92.0,no,0.0,flat,3 vessels,reversible defect,
+51.0,male,asymptomatic,120.0,0.0,true,normal,104.0,no,0.0,flat,2 vessels,normal,
+51.0,male,asymptomatic,130.0,0.0,false,normal,170.0,no,-0.7,upsloping,1 vessel,reversible defect,
+51.0,male,asymptomatic,130.0,0.0,false,ST-T wave abnormality,163.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+51.0,male,asymptomatic,140.0,0.0,false,normal,60.0,no,0.0,flat,1 vessel,normal,
+51.0,male,asymptomatic,95.0,0.0,false,normal,126.0,no,2.2,flat,1 vessel,reversible defect,
+52.0,male,asymptomatic,130.0,0.0,false,normal,120.0,no,0.0,flat,1 vessel,reversible defect,
+52.0,male,asymptomatic,135.0,0.0,false,normal,128.0,yes,2.0,flat,1 vessel,reversible defect,
+52.0,male,asymptomatic,165.0,0.0,false,normal,122.0,yes,1.0,upsloping,1 vessel,reversible defect,
+52.0,male,asymptomatic,95.0,0.0,false,normal,82.0,yes,1.2551020408163265,flat,1 vessel,reversible defect,
+53.0,male,atypical angina,120.0,0.0,false,normal,95.0,no,0.0,flat,1 vessel,normal,
+53.0,male,atypical angina,130.0,0.0,false,ST-T wave abnormality,120.0,no,0.7,downsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,male,non-anginal pain,105.0,0.0,false,normal,115.0,no,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+53.0,male,non-anginal pain,160.0,0.0,false,left ventricular hypertrophy,122.0,yes,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+53.0,male,asymptomatic,120.0,0.0,false,normal,120.0,no,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+53.0,male,asymptomatic,125.0,0.0,false,normal,120.0,no,1.5,upsloping,3 vessels,reversible defect,
+53.0,male,asymptomatic,130.0,0.0,false,left ventricular hypertrophy,135.0,yes,1.0,flat,1 vessel,reversible defect,
+53.0,male,asymptomatic,80.0,0.0,false,normal,141.0,yes,2.0,downsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,asymptomatic,120.0,0.0,false,normal,155.0,no,0.0,flat,1 vessel,reversible defect,
+54.0,male,asymptomatic,130.0,0.0,false,normal,110.0,yes,3.0,flat,2 vessels,reversible defect,
+54.0,male,asymptomatic,180.0,0.0,false,normal,150.0,no,1.5,flat,1 vessel,reversible defect,> 50% diameter narrowing
+55.0,male,atypical angina,140.0,0.0,false,ST-T wave abnormality,150.0,no,0.2,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,male,asymptomatic,115.0,0.0,false,normal,155.0,no,0.1,flat,1 vessel,reversible defect,> 50% diameter narrowing
+55.0,male,asymptomatic,120.0,0.0,false,ST-T wave abnormality,92.0,no,0.3,upsloping,3 vessels,reversible defect,
+55.0,male,asymptomatic,140.0,0.0,false,normal,83.0,no,0.0,flat,1 vessel,reversible defect,
+56.0,male,non-anginal pain,120.0,0.0,false,normal,97.0,no,0.0,flat,0 vessels,reversible defect,< 50% diameter narrowing
+56.0,male,non-anginal pain,125.0,0.0,false,normal,98.0,no,-2.0,flat,1 vessel,reversible defect,
+56.0,male,non-anginal pain,155.0,0.0,false,ST-T wave abnormality,99.0,no,0.0,flat,1 vessel,normal,
+56.0,male,asymptomatic,115.0,0.0,false,ST-T wave abnormality,82.0,no,-1.0,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+56.0,male,asymptomatic,120.0,0.0,false,ST-T wave abnormality,100.0,yes,-1.0,downsloping,1 vessel,reversible defect,
+56.0,male,asymptomatic,120.0,0.0,false,ST-T wave abnormality,148.0,no,0.0,flat,1 vessel,reversible defect,
+56.0,male,asymptomatic,125.0,0.0,true,normal,103.0,yes,1.0,flat,2 vessels,reversible defect,
+56.0,male,asymptomatic,140.0,0.0,false,normal,121.0,yes,1.8,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+57.0,male,non-anginal pain,105.0,0.0,false,normal,148.0,no,0.3,flat,0 vessels,reversible defect,> 50% diameter narrowing
+57.0,male,asymptomatic,110.0,0.0,false,ST-T wave abnormality,131.0,yes,1.4,upsloping,1 vessel,reversible defect,
+57.0,male,asymptomatic,140.0,0.0,false,normal,120.0,yes,2.0,flat,1 vessel,fixed defect,
+57.0,male,asymptomatic,140.0,0.0,false,normal,100.0,yes,0.0,flat,2 vessels,fixed defect,
+57.0,male,asymptomatic,160.0,0.0,false,normal,98.0,yes,2.0,flat,1 vessel,reversible defect,
+57.0,male,asymptomatic,95.0,0.0,false,normal,182.0,no,0.7,downsloping,1 vessel,reversible defect,> 50% diameter narrowing
+58.0,male,asymptomatic,115.0,0.0,false,normal,138.0,no,0.5,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+58.0,male,asymptomatic,130.0,0.0,false,ST-T wave abnormality,100.0,yes,1.0,flat,3 vessels,fixed defect,
+58.0,male,asymptomatic,170.0,0.0,false,ST-T wave abnormality,105.0,yes,0.0,flat,1 vessel,normal,> 50% diameter narrowing
+59.0,male,non-anginal pain,125.0,0.0,false,normal,175.0,no,2.6,flat,0 vessels,reversible defect,> 50% diameter narrowing
+59.0,male,asymptomatic,110.0,0.0,false,normal,94.0,no,0.0,flat,2 vessels,fixed defect,
+59.0,male,asymptomatic,120.0,0.0,false,normal,115.0,no,0.0,flat,1 vessel,normal,
+59.0,male,asymptomatic,125.0,0.0,false,normal,119.0,yes,0.9,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+59.0,male,asymptomatic,135.0,0.0,false,normal,115.0,yes,1.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+60.0,male,non-anginal pain,115.0,0.0,false,normal,143.0,no,2.4,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+60.0,male,asymptomatic,125.0,0.0,false,normal,110.0,no,0.1,upsloping,2 vessels,reversible defect,
+60.0,male,asymptomatic,130.0,0.0,false,ST-T wave abnormality,130.0,yes,1.1,downsloping,1 vessel,reversible defect,> 50% diameter narrowing
+60.0,male,asymptomatic,135.0,0.0,false,normal,63.0,yes,0.5,upsloping,2 vessels,reversible defect,
+60.0,male,asymptomatic,160.0,0.0,false,ST-T wave abnormality,99.0,yes,0.5,flat,2 vessels,reversible defect,
+60.0,male,asymptomatic,160.0,0.0,false,normal,149.0,no,0.4,flat,1 vessel,reversible defect,> 50% diameter narrowing
+61.0,male,non-anginal pain,200.0,0.0,false,ST-T wave abnormality,70.0,no,0.0,flat,0 vessels,normal,
+61.0,male,asymptomatic,105.0,0.0,false,normal,110.0,yes,1.5,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+61.0,male,asymptomatic,110.0,0.0,false,normal,113.0,no,1.4,flat,1 vessel,reversible defect,> 50% diameter narrowing
+61.0,male,asymptomatic,125.0,0.0,false,normal,105.0,yes,0.0,downsloping,2 vessels,reversible defect,
+61.0,male,asymptomatic,130.0,0.0,false,left ventricular hypertrophy,115.0,no,0.0,flat,2 vessels,reversible defect,
+61.0,male,asymptomatic,130.0,0.0,false,normal,77.0,no,2.5,flat,2 vessels,reversible defect,
+61.0,male,asymptomatic,150.0,0.0,false,normal,105.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+61.0,male,asymptomatic,150.0,0.0,false,normal,117.0,yes,2.0,flat,1 vessel,reversible defect,
+61.0,male,asymptomatic,160.0,0.0,true,ST-T wave abnormality,145.0,no,1.0,flat,1 vessel,reversible defect,
+62.0,female,typical angina,140.0,0.0,,normal,143.0,no,0.0,,,normal,
+62.0,female,asymptomatic,120.0,0.0,false,ST-T wave abnormality,123.0,yes,1.7,downsloping,0 vessels,normal,> 50% diameter narrowing
+62.0,male,typical angina,120.0,0.0,false,left ventricular hypertrophy,134.0,no,-0.8,flat,2 vessels,normal,> 50% diameter narrowing
+62.0,male,non-anginal pain,160.0,0.0,false,normal,72.0,yes,0.0,flat,0 vessels,normal,
+62.0,male,asymptomatic,115.0,0.0,false,normal,128.0,yes,2.5,downsloping,1 vessel,reversible defect,
+62.0,male,asymptomatic,115.0,0.0,false,normal,72.0,yes,-0.5,flat,1 vessel,normal,> 50% diameter narrowing
+62.0,male,asymptomatic,150.0,0.0,false,ST-T wave abnormality,78.0,no,2.0,flat,2 vessels,reversible defect,
+63.0,male,asymptomatic,100.0,0.0,false,normal,109.0,no,-0.9,flat,1 vessel,reversible defect,> 50% diameter narrowing
+63.0,male,asymptomatic,140.0,0.0,false,left ventricular hypertrophy,149.0,no,2.0,upsloping,1 vessel,reversible defect,
+63.0,male,asymptomatic,150.0,0.0,false,normal,86.0,yes,2.0,flat,2 vessels,reversible defect,
+63.0,male,asymptomatic,150.0,0.0,false,ST-T wave abnormality,154.0,no,3.7,upsloping,2 vessels,reversible defect,
+63.0,male,asymptomatic,185.0,0.0,false,normal,98.0,yes,0.0,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+64.0,female,asymptomatic,200.0,0.0,false,normal,140.0,yes,1.0,flat,2 vessels,normal,
+64.0,female,asymptomatic,95.0,0.0,false,normal,145.0,no,1.1,downsloping,0 vessels,normal,> 50% diameter narrowing
+64.0,male,asymptomatic,110.0,0.0,false,normal,114.0,yes,1.3,downsloping,1 vessel,reversible defect,> 50% diameter narrowing
+65.0,male,asymptomatic,115.0,0.0,false,normal,93.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+65.0,male,asymptomatic,145.0,0.0,false,ST-T wave abnormality,67.0,no,1.384090909090909,flat,2 vessels,fixed defect,
+65.0,male,asymptomatic,155.0,0.0,false,normal,154.0,no,1.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+65.0,male,asymptomatic,160.0,0.0,true,ST-T wave abnormality,122.0,no,1.384090909090909,flat,2 vessels,reversible defect,
+66.0,female,asymptomatic,155.0,0.0,false,normal,90.0,no,0.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+66.0,male,asymptomatic,150.0,0.0,false,normal,108.0,yes,2.0,flat,2 vessels,reversible defect,
+67.0,male,typical angina,145.0,0.0,false,left ventricular hypertrophy,125.0,no,0.0,flat,2 vessels,normal,
+68.0,male,asymptomatic,135.0,0.0,false,ST-T wave abnormality,120.0,yes,0.0,upsloping,2 vessels,reversible defect,
+68.0,male,asymptomatic,145.0,0.0,false,normal,136.0,no,1.8,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+69.0,male,asymptomatic,135.0,0.0,false,normal,130.0,no,0.0,flat,1 vessel,fixed defect,> 50% diameter narrowing
+69.0,male,asymptomatic,130.2608695652174,0.0,false,ST-T wave abnormality,117.74468085106383,yes,1.384090909090909,flat,2 vessels,reversible defect,
+70.0,male,asymptomatic,115.0,0.0,false,ST-T wave abnormality,92.0,yes,0.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+70.0,male,asymptomatic,140.0,0.0,true,normal,157.0,yes,2.0,flat,2 vessels,reversible defect,
+72.0,male,non-anginal pain,160.0,0.0,false,left ventricular hypertrophy,114.0,no,1.6,flat,2 vessels,normal,< 50% diameter narrowing
+73.0,female,non-anginal pain,160.0,0.0,false,ST-T wave abnormality,121.0,no,0.0,upsloping,,normal,> 50% diameter narrowing
+74.0,male,atypical angina,145.0,0.0,false,ST-T wave abnormality,123.0,no,1.3,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+63.0,male,typical angina,145.0,233.0,true,left ventricular hypertrophy,150.0,no,2.3,downsloping,0 vessels,fixed defect,< 50% diameter narrowing
+67.0,male,asymptomatic,160.0,286.0,false,left ventricular hypertrophy,108.0,yes,1.5,flat,3 vessels,normal,
+67.0,male,asymptomatic,120.0,229.0,false,left ventricular hypertrophy,129.0,yes,2.6,flat,2 vessels,reversible defect,> 50% diameter narrowing
+37.0,male,non-anginal pain,130.0,250.0,false,normal,187.0,no,3.5,downsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,female,atypical angina,130.0,204.0,false,left ventricular hypertrophy,172.0,no,1.4,upsloping,0 vessels,normal,< 50% diameter narrowing
+56.0,male,atypical angina,120.0,236.0,false,normal,178.0,no,0.8,upsloping,0 vessels,normal,< 50% diameter narrowing
+62.0,female,asymptomatic,140.0,268.0,false,left ventricular hypertrophy,160.0,no,3.6,downsloping,2 vessels,normal,
+57.0,female,asymptomatic,120.0,354.0,false,normal,163.0,yes,0.6,upsloping,0 vessels,normal,< 50% diameter narrowing
+63.0,male,asymptomatic,130.0,254.0,false,left ventricular hypertrophy,147.0,no,1.4,flat,1 vessel,reversible defect,
+53.0,male,asymptomatic,140.0,203.0,true,left ventricular hypertrophy,155.0,yes,3.1,downsloping,0 vessels,reversible defect,> 50% diameter narrowing
+57.0,male,asymptomatic,140.0,192.0,false,normal,148.0,no,0.4,flat,0 vessels,fixed defect,< 50% diameter narrowing
+56.0,female,atypical angina,140.0,294.0,false,left ventricular hypertrophy,153.0,no,1.3,flat,0 vessels,normal,< 50% diameter narrowing
+56.0,male,non-anginal pain,130.0,256.0,true,left ventricular hypertrophy,142.0,yes,0.6,flat,1 vessel,fixed defect,
+44.0,male,atypical angina,120.0,263.0,false,normal,173.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+52.0,male,non-anginal pain,172.0,199.0,true,normal,162.0,no,0.5,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+57.0,male,non-anginal pain,150.0,168.0,false,normal,174.0,no,1.6,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,male,atypical angina,110.0,229.0,false,normal,168.0,no,1.0,downsloping,0 vessels,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,140.0,239.0,false,normal,160.0,no,1.2,upsloping,0 vessels,normal,< 50% diameter narrowing
+48.0,female,non-anginal pain,130.0,275.0,false,normal,139.0,no,0.2,upsloping,0 vessels,normal,< 50% diameter narrowing
+49.0,male,atypical angina,130.0,266.0,false,normal,171.0,no,0.6,upsloping,0 vessels,normal,< 50% diameter narrowing
+64.0,male,typical angina,110.0,211.0,false,left ventricular hypertrophy,144.0,yes,1.8,flat,0 vessels,normal,< 50% diameter narrowing
+58.0,female,typical angina,150.0,283.0,true,left ventricular hypertrophy,162.0,no,1.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+58.0,male,atypical angina,120.0,284.0,false,left ventricular hypertrophy,160.0,no,1.8,flat,0 vessels,normal,> 50% diameter narrowing
+58.0,male,non-anginal pain,132.0,224.0,false,left ventricular hypertrophy,173.0,no,3.2,upsloping,2 vessels,reversible defect,
+60.0,male,asymptomatic,130.0,206.0,false,left ventricular hypertrophy,132.0,yes,2.4,flat,2 vessels,reversible defect,
+50.0,female,non-anginal pain,120.0,219.0,false,normal,158.0,no,1.6,flat,0 vessels,normal,< 50% diameter narrowing
+58.0,female,non-anginal pain,120.0,340.0,false,normal,172.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+66.0,female,typical angina,150.0,226.0,false,normal,114.0,no,2.6,downsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,male,asymptomatic,150.0,247.0,false,normal,171.0,no,1.5,upsloping,0 vessels,normal,< 50% diameter narrowing
+40.0,male,asymptomatic,110.0,167.0,false,left ventricular hypertrophy,114.0,yes,2.0,flat,0 vessels,reversible defect,
+69.0,female,typical angina,140.0,239.0,false,normal,151.0,no,1.8,upsloping,2 vessels,normal,< 50% diameter narrowing
+60.0,male,asymptomatic,117.0,230.0,true,normal,160.0,yes,1.4,upsloping,2 vessels,reversible defect,
+64.0,male,non-anginal pain,140.0,335.0,false,normal,158.0,no,0.0,upsloping,0 vessels,normal,> 50% diameter narrowing
+59.0,male,asymptomatic,135.0,234.0,false,normal,161.0,no,0.5,flat,0 vessels,reversible defect,< 50% diameter narrowing
+44.0,male,non-anginal pain,130.0,233.0,false,normal,179.0,yes,0.4,upsloping,0 vessels,normal,< 50% diameter narrowing
+42.0,male,asymptomatic,140.0,226.0,false,normal,178.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,male,asymptomatic,120.0,177.0,false,left ventricular hypertrophy,120.0,yes,2.5,flat,0 vessels,reversible defect,
+57.0,male,asymptomatic,150.0,276.0,false,left ventricular hypertrophy,112.0,yes,0.6,flat,1 vessel,fixed defect,> 50% diameter narrowing
+55.0,male,asymptomatic,132.0,353.0,false,normal,132.0,yes,1.2,flat,1 vessel,reversible defect,
+61.0,male,non-anginal pain,150.0,243.0,true,normal,137.0,yes,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+65.0,female,asymptomatic,150.0,225.0,false,left ventricular hypertrophy,114.0,no,1.0,flat,3 vessels,reversible defect,
+40.0,male,typical angina,140.0,199.0,false,normal,178.0,yes,1.4,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+71.0,female,atypical angina,160.0,302.0,false,normal,162.0,no,0.4,upsloping,2 vessels,normal,< 50% diameter narrowing
+59.0,male,non-anginal pain,150.0,212.0,true,normal,157.0,no,1.6,upsloping,0 vessels,normal,< 50% diameter narrowing
+61.0,female,asymptomatic,130.0,330.0,false,left ventricular hypertrophy,169.0,no,0.0,upsloping,0 vessels,normal,> 50% diameter narrowing
+58.0,male,non-anginal pain,112.0,230.0,false,left ventricular hypertrophy,165.0,no,2.5,flat,1 vessel,reversible defect,
+51.0,male,non-anginal pain,110.0,175.0,false,normal,123.0,no,0.6,upsloping,0 vessels,normal,< 50% diameter narrowing
+50.0,male,asymptomatic,150.0,243.0,false,left ventricular hypertrophy,128.0,no,2.6,flat,0 vessels,reversible defect,
+65.0,female,non-anginal pain,140.0,417.0,true,left ventricular hypertrophy,157.0,no,0.8,upsloping,1 vessel,normal,< 50% diameter narrowing
+53.0,male,non-anginal pain,130.0,197.0,true,left ventricular hypertrophy,152.0,no,1.2,downsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,female,atypical angina,105.0,198.0,false,normal,168.0,no,0.0,upsloping,1 vessel,normal,< 50% diameter narrowing
+65.0,male,asymptomatic,120.0,177.0,false,normal,140.0,no,0.4,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+44.0,male,asymptomatic,112.0,290.0,false,left ventricular hypertrophy,153.0,no,0.0,upsloping,1 vessel,normal,
+44.0,male,atypical angina,130.0,219.0,false,left ventricular hypertrophy,188.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+60.0,male,asymptomatic,130.0,253.0,false,normal,144.0,yes,1.4,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+54.0,male,asymptomatic,124.0,266.0,false,left ventricular hypertrophy,109.0,yes,2.2,flat,1 vessel,reversible defect,> 50% diameter narrowing
+50.0,male,non-anginal pain,140.0,233.0,false,normal,163.0,no,0.6,flat,1 vessel,reversible defect,> 50% diameter narrowing
+41.0,male,asymptomatic,110.0,172.0,false,left ventricular hypertrophy,158.0,no,0.0,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+54.0,male,non-anginal pain,125.0,273.0,false,left ventricular hypertrophy,152.0,no,0.5,downsloping,1 vessel,normal,< 50% diameter narrowing
+51.0,male,typical angina,125.0,213.0,false,left ventricular hypertrophy,125.0,yes,1.4,upsloping,1 vessel,normal,< 50% diameter narrowing
+51.0,female,asymptomatic,130.0,305.0,false,normal,142.0,yes,1.2,flat,0 vessels,reversible defect,
+46.0,female,non-anginal pain,142.0,177.0,false,left ventricular hypertrophy,160.0,yes,1.4,downsloping,0 vessels,normal,< 50% diameter narrowing
+58.0,male,asymptomatic,128.0,216.0,false,left ventricular hypertrophy,131.0,yes,2.2,flat,3 vessels,reversible defect,> 50% diameter narrowing
+54.0,female,non-anginal pain,135.0,304.0,true,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,asymptomatic,120.0,188.0,false,normal,113.0,no,1.4,flat,1 vessel,reversible defect,
+60.0,male,asymptomatic,145.0,282.0,false,left ventricular hypertrophy,142.0,yes,2.8,flat,2 vessels,reversible defect,
+60.0,male,non-anginal pain,140.0,185.0,false,left ventricular hypertrophy,155.0,no,3.0,flat,0 vessels,normal,> 50% diameter narrowing
+54.0,male,non-anginal pain,150.0,232.0,false,left ventricular hypertrophy,165.0,no,1.6,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+59.0,male,asymptomatic,170.0,326.0,false,left ventricular hypertrophy,140.0,yes,3.4,downsloping,0 vessels,reversible defect,
+46.0,male,non-anginal pain,150.0,231.0,false,normal,147.0,no,3.6,flat,0 vessels,normal,> 50% diameter narrowing
+65.0,female,non-anginal pain,155.0,269.0,false,normal,148.0,no,0.8,upsloping,0 vessels,normal,< 50% diameter narrowing
+67.0,male,asymptomatic,125.0,254.0,true,normal,163.0,no,0.2,flat,2 vessels,reversible defect,
+62.0,male,asymptomatic,120.0,267.0,false,normal,99.0,yes,1.8,flat,2 vessels,reversible defect,> 50% diameter narrowing
+65.0,male,asymptomatic,110.0,248.0,false,left ventricular hypertrophy,158.0,no,0.6,upsloping,2 vessels,fixed defect,> 50% diameter narrowing
+44.0,male,asymptomatic,110.0,197.0,false,left ventricular hypertrophy,177.0,no,0.0,upsloping,1 vessel,normal,> 50% diameter narrowing
+65.0,female,non-anginal pain,160.0,360.0,false,left ventricular hypertrophy,151.0,no,0.8,upsloping,0 vessels,normal,< 50% diameter narrowing
+60.0,male,asymptomatic,125.0,258.0,false,left ventricular hypertrophy,141.0,yes,2.8,flat,1 vessel,reversible defect,> 50% diameter narrowing
+51.0,female,non-anginal pain,140.0,308.0,false,left ventricular hypertrophy,142.0,no,1.5,upsloping,1 vessel,normal,< 50% diameter narrowing
+48.0,male,atypical angina,130.0,245.0,false,left ventricular hypertrophy,180.0,no,0.2,flat,0 vessels,normal,< 50% diameter narrowing
+58.0,male,asymptomatic,150.0,270.0,false,left ventricular hypertrophy,111.0,yes,0.8,upsloping,0 vessels,reversible defect,
+45.0,male,asymptomatic,104.0,208.0,false,left ventricular hypertrophy,148.0,yes,3.0,flat,0 vessels,normal,< 50% diameter narrowing
+53.0,female,asymptomatic,130.0,264.0,false,left ventricular hypertrophy,143.0,no,0.4,flat,0 vessels,normal,< 50% diameter narrowing
+39.0,male,non-anginal pain,140.0,321.0,false,left ventricular hypertrophy,182.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+68.0,male,non-anginal pain,180.0,274.0,true,left ventricular hypertrophy,150.0,yes,1.6,flat,0 vessels,reversible defect,
+52.0,male,atypical angina,120.0,325.0,false,normal,172.0,no,0.2,upsloping,0 vessels,normal,< 50% diameter narrowing
+44.0,male,non-anginal pain,140.0,235.0,false,left ventricular hypertrophy,180.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+47.0,male,non-anginal pain,138.0,257.0,false,left ventricular hypertrophy,156.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,female,non-anginal pain,128.0,216.0,false,left ventricular hypertrophy,115.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,female,asymptomatic,138.0,234.0,false,left ventricular hypertrophy,160.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,female,non-anginal pain,130.0,256.0,false,left ventricular hypertrophy,149.0,no,0.5,upsloping,0 vessels,normal,< 50% diameter narrowing
+66.0,male,asymptomatic,120.0,302.0,false,left ventricular hypertrophy,151.0,no,0.4,flat,0 vessels,normal,< 50% diameter narrowing
+62.0,female,asymptomatic,160.0,164.0,false,left ventricular hypertrophy,145.0,no,6.2,downsloping,3 vessels,reversible defect,
+62.0,male,non-anginal pain,130.0,231.0,false,normal,146.0,no,1.8,flat,3 vessels,reversible defect,< 50% diameter narrowing
+44.0,female,non-anginal pain,108.0,141.0,false,normal,175.0,no,0.6,flat,0 vessels,normal,< 50% diameter narrowing
+63.0,female,non-anginal pain,135.0,252.0,false,left ventricular hypertrophy,172.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+52.0,male,asymptomatic,128.0,255.0,false,normal,161.0,yes,0.0,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+59.0,male,asymptomatic,110.0,239.0,false,left ventricular hypertrophy,142.0,yes,1.2,flat,1 vessel,reversible defect,
+60.0,female,asymptomatic,150.0,258.0,false,left ventricular hypertrophy,157.0,no,2.6,flat,2 vessels,reversible defect,
+52.0,male,atypical angina,134.0,201.0,false,normal,158.0,no,0.8,upsloping,1 vessel,normal,< 50% diameter narrowing
+48.0,male,asymptomatic,122.0,222.0,false,left ventricular hypertrophy,186.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,male,asymptomatic,115.0,260.0,false,left ventricular hypertrophy,185.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+34.0,male,typical angina,118.0,182.0,false,left ventricular hypertrophy,174.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+57.0,female,asymptomatic,128.0,303.0,false,left ventricular hypertrophy,159.0,no,0.0,upsloping,1 vessel,normal,< 50% diameter narrowing
+71.0,female,non-anginal pain,110.0,265.0,true,left ventricular hypertrophy,130.0,no,0.0,upsloping,1 vessel,normal,< 50% diameter narrowing
+49.0,male,non-anginal pain,120.0,188.0,false,normal,139.0,no,2.0,flat,3 vessels,reversible defect,
+54.0,male,atypical angina,108.0,309.0,false,normal,156.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+59.0,male,asymptomatic,140.0,177.0,false,normal,162.0,yes,0.0,upsloping,1 vessel,reversible defect,
+57.0,male,non-anginal pain,128.0,229.0,false,left ventricular hypertrophy,150.0,no,0.4,flat,1 vessel,reversible defect,> 50% diameter narrowing
+61.0,male,asymptomatic,120.0,260.0,false,normal,140.0,yes,3.6,flat,1 vessel,reversible defect,
+39.0,male,asymptomatic,118.0,219.0,false,normal,140.0,no,1.2,flat,0 vessels,reversible defect,
+61.0,female,asymptomatic,145.0,307.0,false,left ventricular hypertrophy,146.0,yes,1.0,flat,0 vessels,reversible defect,> 50% diameter narrowing
+56.0,male,asymptomatic,125.0,249.0,true,left ventricular hypertrophy,144.0,yes,1.2,flat,1 vessel,normal,> 50% diameter narrowing
+52.0,male,typical angina,118.0,186.0,false,left ventricular hypertrophy,190.0,no,0.0,flat,0 vessels,fixed defect,< 50% diameter narrowing
+43.0,female,asymptomatic,132.0,341.0,true,left ventricular hypertrophy,136.0,yes,3.0,flat,0 vessels,reversible defect,
+62.0,female,non-anginal pain,130.0,263.0,false,normal,97.0,no,1.2,flat,1 vessel,reversible defect,
+41.0,male,atypical angina,135.0,203.0,false,normal,132.0,no,0.0,flat,0 vessels,fixed defect,< 50% diameter narrowing
+58.0,male,non-anginal pain,140.0,211.0,true,left ventricular hypertrophy,165.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+35.0,female,asymptomatic,138.0,183.0,false,normal,182.0,no,1.4,upsloping,0 vessels,normal,< 50% diameter narrowing
+63.0,male,asymptomatic,130.0,330.0,true,left ventricular hypertrophy,132.0,yes,1.8,upsloping,3 vessels,reversible defect,
+65.0,male,asymptomatic,135.0,254.0,false,left ventricular hypertrophy,127.0,no,2.8,flat,1 vessel,reversible defect,
+48.0,male,asymptomatic,130.0,256.0,true,left ventricular hypertrophy,150.0,yes,0.0,upsloping,2 vessels,reversible defect,
+63.0,female,asymptomatic,150.0,407.0,false,left ventricular hypertrophy,154.0,no,4.0,flat,3 vessels,reversible defect,
+51.0,male,non-anginal pain,100.0,222.0,false,normal,143.0,yes,1.2,flat,0 vessels,normal,< 50% diameter narrowing
+55.0,male,asymptomatic,140.0,217.0,false,normal,111.0,yes,5.6,downsloping,0 vessels,reversible defect,
+65.0,male,typical angina,138.0,282.0,true,left ventricular hypertrophy,174.0,no,1.4,flat,1 vessel,normal,> 50% diameter narrowing
+45.0,female,atypical angina,130.0,234.0,false,left ventricular hypertrophy,175.0,no,0.6,flat,0 vessels,normal,< 50% diameter narrowing
+56.0,female,asymptomatic,200.0,288.0,true,left ventricular hypertrophy,133.0,yes,4.0,downsloping,2 vessels,reversible defect,
+54.0,male,asymptomatic,110.0,239.0,false,normal,126.0,yes,2.8,flat,1 vessel,reversible defect,
+44.0,male,atypical angina,120.0,220.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+62.0,female,asymptomatic,124.0,209.0,false,normal,163.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,male,non-anginal pain,120.0,258.0,false,left ventricular hypertrophy,147.0,no,0.4,flat,0 vessels,reversible defect,< 50% diameter narrowing
+51.0,male,non-anginal pain,94.0,227.0,false,normal,154.0,yes,0.0,upsloping,1 vessel,reversible defect,< 50% diameter narrowing
+29.0,male,atypical angina,130.0,204.0,false,left ventricular hypertrophy,202.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,male,asymptomatic,140.0,261.0,false,left ventricular hypertrophy,186.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,female,non-anginal pain,122.0,213.0,false,normal,165.0,no,0.2,flat,0 vessels,normal,< 50% diameter narrowing
+55.0,female,atypical angina,135.0,250.0,false,left ventricular hypertrophy,161.0,no,1.4,flat,0 vessels,normal,< 50% diameter narrowing
+70.0,male,asymptomatic,145.0,174.0,false,normal,125.0,yes,2.6,downsloping,0 vessels,reversible defect,
+62.0,male,atypical angina,120.0,281.0,false,left ventricular hypertrophy,103.0,no,1.4,flat,1 vessel,reversible defect,
+35.0,male,asymptomatic,120.0,198.0,false,normal,130.0,yes,1.6,flat,0 vessels,reversible defect,> 50% diameter narrowing
+51.0,male,non-anginal pain,125.0,245.0,true,left ventricular hypertrophy,166.0,no,2.4,flat,0 vessels,normal,< 50% diameter narrowing
+59.0,male,atypical angina,140.0,221.0,false,normal,164.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+59.0,male,typical angina,170.0,288.0,false,left ventricular hypertrophy,159.0,no,0.2,flat,0 vessels,reversible defect,> 50% diameter narrowing
+52.0,male,atypical angina,128.0,205.0,true,normal,184.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+64.0,male,non-anginal pain,125.0,309.0,false,normal,131.0,yes,1.8,flat,0 vessels,reversible defect,> 50% diameter narrowing
+58.0,male,non-anginal pain,105.0,240.0,false,left ventricular hypertrophy,154.0,yes,0.6,flat,0 vessels,reversible defect,< 50% diameter narrowing
+47.0,male,non-anginal pain,108.0,243.0,false,normal,152.0,no,0.0,upsloping,0 vessels,normal,> 50% diameter narrowing
+57.0,male,asymptomatic,165.0,289.0,true,left ventricular hypertrophy,124.0,no,1.0,flat,3 vessels,reversible defect,
+41.0,male,non-anginal pain,112.0,250.0,false,normal,179.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+45.0,male,atypical angina,128.0,308.0,false,left ventricular hypertrophy,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+60.0,female,non-anginal pain,102.0,318.0,false,normal,160.0,no,0.0,upsloping,1 vessel,normal,< 50% diameter narrowing
+52.0,male,typical angina,152.0,298.0,true,normal,178.0,no,1.2,flat,0 vessels,reversible defect,< 50% diameter narrowing
+42.0,female,asymptomatic,102.0,265.0,false,left ventricular hypertrophy,122.0,no,0.6,flat,0 vessels,normal,< 50% diameter narrowing
+67.0,female,non-anginal pain,115.0,564.0,false,left ventricular hypertrophy,160.0,no,1.6,flat,0 vessels,reversible defect,< 50% diameter narrowing
+55.0,male,asymptomatic,160.0,289.0,false,left ventricular hypertrophy,145.0,yes,0.8,flat,1 vessel,reversible defect,
+64.0,male,asymptomatic,120.0,246.0,false,left ventricular hypertrophy,96.0,yes,2.2,downsloping,1 vessel,normal,
+70.0,male,asymptomatic,130.0,322.0,false,left ventricular hypertrophy,109.0,no,2.4,flat,3 vessels,normal,> 50% diameter narrowing
+51.0,male,asymptomatic,140.0,299.0,false,normal,173.0,yes,1.6,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+58.0,male,asymptomatic,125.0,300.0,false,left ventricular hypertrophy,171.0,no,0.0,upsloping,2 vessels,reversible defect,> 50% diameter narrowing
+60.0,male,asymptomatic,140.0,293.0,false,left ventricular hypertrophy,170.0,no,1.2,flat,2 vessels,reversible defect,
+68.0,male,non-anginal pain,118.0,277.0,false,normal,151.0,no,1.0,upsloping,1 vessel,reversible defect,< 50% diameter narrowing
+46.0,male,atypical angina,101.0,197.0,true,normal,156.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+77.0,male,asymptomatic,125.0,304.0,false,left ventricular hypertrophy,162.0,yes,0.0,upsloping,3 vessels,normal,
+54.0,female,non-anginal pain,110.0,214.0,false,normal,158.0,no,1.6,flat,0 vessels,normal,< 50% diameter narrowing
+58.0,female,asymptomatic,100.0,248.0,false,left ventricular hypertrophy,122.0,no,1.0,flat,0 vessels,normal,< 50% diameter narrowing
+48.0,male,non-anginal pain,124.0,255.0,true,normal,175.0,no,0.0,upsloping,2 vessels,normal,< 50% diameter narrowing
+57.0,male,asymptomatic,132.0,207.0,false,normal,168.0,yes,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+52.0,male,non-anginal pain,138.0,223.0,false,normal,169.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,atypical angina,132.0,288.0,true,left ventricular hypertrophy,159.0,yes,0.0,upsloping,1 vessel,normal,< 50% diameter narrowing
+35.0,male,asymptomatic,126.0,282.0,false,left ventricular hypertrophy,156.0,yes,0.0,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+45.0,female,atypical angina,112.0,160.0,false,normal,138.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+70.0,male,non-anginal pain,160.0,269.0,false,normal,112.0,yes,2.9,flat,1 vessel,reversible defect,
+53.0,male,asymptomatic,142.0,226.0,false,left ventricular hypertrophy,111.0,yes,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+59.0,female,asymptomatic,174.0,249.0,false,normal,143.0,yes,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+62.0,female,asymptomatic,140.0,394.0,false,left ventricular hypertrophy,157.0,no,1.2,flat,0 vessels,normal,< 50% diameter narrowing
+64.0,male,asymptomatic,145.0,212.0,false,left ventricular hypertrophy,132.0,no,2.0,flat,2 vessels,fixed defect,
+57.0,male,asymptomatic,152.0,274.0,false,normal,88.0,yes,1.2,flat,1 vessel,reversible defect,> 50% diameter narrowing
+52.0,male,asymptomatic,108.0,233.0,true,normal,147.0,no,0.1,upsloping,3 vessels,reversible defect,< 50% diameter narrowing
+56.0,male,asymptomatic,132.0,184.0,false,left ventricular hypertrophy,105.0,yes,2.1,flat,1 vessel,fixed defect,> 50% diameter narrowing
+43.0,male,non-anginal pain,130.0,315.0,false,normal,162.0,no,1.9,upsloping,1 vessel,normal,< 50% diameter narrowing
+53.0,male,non-anginal pain,130.0,246.0,true,left ventricular hypertrophy,173.0,no,0.0,upsloping,3 vessels,normal,< 50% diameter narrowing
+48.0,male,asymptomatic,124.0,274.0,false,left ventricular hypertrophy,166.0,no,0.5,flat,0 vessels,reversible defect,
+56.0,female,asymptomatic,134.0,409.0,false,left ventricular hypertrophy,150.0,yes,1.9,flat,2 vessels,reversible defect,
+42.0,male,typical angina,148.0,244.0,false,left ventricular hypertrophy,178.0,no,0.8,upsloping,2 vessels,normal,< 50% diameter narrowing
+59.0,male,typical angina,178.0,270.0,false,left ventricular hypertrophy,145.0,no,4.2,downsloping,0 vessels,reversible defect,< 50% diameter narrowing
+60.0,female,asymptomatic,158.0,305.0,false,left ventricular hypertrophy,161.0,no,0.0,upsloping,0 vessels,normal,> 50% diameter narrowing
+63.0,female,atypical angina,140.0,195.0,false,normal,179.0,no,0.0,upsloping,2 vessels,normal,< 50% diameter narrowing
+42.0,male,non-anginal pain,120.0,240.0,true,normal,194.0,no,0.8,downsloping,0 vessels,reversible defect,< 50% diameter narrowing
+66.0,male,atypical angina,160.0,246.0,false,normal,120.0,yes,0.0,flat,3 vessels,fixed defect,
+54.0,male,atypical angina,192.0,283.0,false,left ventricular hypertrophy,195.0,no,0.0,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+69.0,male,non-anginal pain,140.0,254.0,false,left ventricular hypertrophy,146.0,no,2.0,flat,3 vessels,reversible defect,
+50.0,male,non-anginal pain,129.0,196.0,false,normal,163.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+51.0,male,asymptomatic,140.0,298.0,false,normal,122.0,yes,4.2,flat,3 vessels,reversible defect,
+43.0,male,asymptomatic,132.0,247.0,true,left ventricular hypertrophy,143.0,yes,0.1,flat,1 vessel,reversible defect,> 50% diameter narrowing
+62.0,female,asymptomatic,138.0,294.0,true,normal,106.0,no,1.9,flat,3 vessels,normal,
+68.0,female,non-anginal pain,120.0,211.0,false,left ventricular hypertrophy,115.0,no,1.5,flat,0 vessels,normal,< 50% diameter narrowing
+67.0,male,asymptomatic,100.0,299.0,false,left ventricular hypertrophy,125.0,yes,0.9,flat,2 vessels,normal,
+69.0,male,typical angina,160.0,234.0,true,left ventricular hypertrophy,131.0,no,0.1,flat,1 vessel,normal,< 50% diameter narrowing
+45.0,female,asymptomatic,138.0,236.0,false,left ventricular hypertrophy,152.0,yes,0.2,flat,0 vessels,normal,< 50% diameter narrowing
+50.0,female,atypical angina,120.0,244.0,false,normal,162.0,no,1.1,upsloping,0 vessels,normal,< 50% diameter narrowing
+59.0,male,typical angina,160.0,273.0,false,left ventricular hypertrophy,125.0,no,0.0,upsloping,0 vessels,normal,> 50% diameter narrowing
+50.0,female,asymptomatic,110.0,254.0,false,left ventricular hypertrophy,159.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+64.0,female,asymptomatic,180.0,325.0,false,normal,154.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+57.0,male,non-anginal pain,150.0,126.0,true,normal,173.0,no,0.2,upsloping,1 vessel,reversible defect,< 50% diameter narrowing
+64.0,female,non-anginal pain,140.0,313.0,false,normal,133.0,no,0.2,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+43.0,male,asymptomatic,110.0,211.0,false,normal,161.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+45.0,male,asymptomatic,142.0,309.0,false,left ventricular hypertrophy,147.0,yes,0.0,flat,3 vessels,reversible defect,
+58.0,male,asymptomatic,128.0,259.0,false,left ventricular hypertrophy,130.0,yes,3.0,flat,2 vessels,reversible defect,
+50.0,male,asymptomatic,144.0,200.0,false,left ventricular hypertrophy,126.0,yes,0.9,flat,0 vessels,reversible defect,
+55.0,male,atypical angina,130.0,262.0,false,normal,155.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+62.0,female,asymptomatic,150.0,244.0,false,normal,154.0,yes,1.4,flat,0 vessels,normal,> 50% diameter narrowing
+37.0,female,non-anginal pain,120.0,215.0,false,normal,170.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+38.0,male,typical angina,120.0,231.0,false,normal,182.0,yes,3.8,flat,0 vessels,reversible defect,
+41.0,male,non-anginal pain,130.0,214.0,false,left ventricular hypertrophy,168.0,no,2.0,flat,0 vessels,normal,< 50% diameter narrowing
+66.0,female,asymptomatic,178.0,228.0,true,normal,165.0,yes,1.0,flat,2 vessels,reversible defect,
+52.0,male,asymptomatic,112.0,230.0,false,normal,160.0,no,0.0,upsloping,1 vessel,normal,> 50% diameter narrowing
+56.0,male,typical angina,120.0,193.0,false,left ventricular hypertrophy,162.0,no,1.9,flat,0 vessels,reversible defect,< 50% diameter narrowing
+46.0,female,atypical angina,105.0,204.0,false,normal,172.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+46.0,female,asymptomatic,138.0,243.0,false,left ventricular hypertrophy,152.0,yes,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+64.0,female,asymptomatic,130.0,303.0,false,normal,122.0,no,2.0,flat,2 vessels,normal,< 50% diameter narrowing
+59.0,male,asymptomatic,138.0,271.0,false,left ventricular hypertrophy,182.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,female,non-anginal pain,112.0,268.0,false,left ventricular hypertrophy,172.0,yes,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+54.0,female,non-anginal pain,108.0,267.0,false,left ventricular hypertrophy,167.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+39.0,female,non-anginal pain,94.0,199.0,false,normal,179.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+53.0,male,asymptomatic,123.0,282.0,false,normal,95.0,yes,2.0,flat,2 vessels,reversible defect,
+63.0,female,asymptomatic,108.0,269.0,false,normal,169.0,yes,1.8,flat,2 vessels,normal,> 50% diameter narrowing
+34.0,female,atypical angina,118.0,210.0,false,normal,192.0,no,0.7,upsloping,0 vessels,normal,< 50% diameter narrowing
+47.0,male,asymptomatic,112.0,204.0,false,normal,143.0,no,0.1,upsloping,0 vessels,normal,< 50% diameter narrowing
+67.0,female,non-anginal pain,152.0,277.0,false,normal,172.0,no,0.0,upsloping,1 vessel,normal,< 50% diameter narrowing
+54.0,male,asymptomatic,110.0,206.0,false,left ventricular hypertrophy,108.0,yes,0.0,flat,1 vessel,normal,
+66.0,male,asymptomatic,112.0,212.0,false,left ventricular hypertrophy,132.0,yes,0.1,upsloping,1 vessel,normal,
+52.0,female,non-anginal pain,136.0,196.0,false,left ventricular hypertrophy,169.0,no,0.1,flat,0 vessels,normal,< 50% diameter narrowing
+55.0,female,asymptomatic,180.0,327.0,false,ST-T wave abnormality,117.0,yes,3.4,flat,0 vessels,normal,
+49.0,male,non-anginal pain,118.0,149.0,false,left ventricular hypertrophy,126.0,no,0.8,upsloping,3 vessels,normal,> 50% diameter narrowing
+74.0,female,atypical angina,120.0,269.0,false,left ventricular hypertrophy,121.0,yes,0.2,upsloping,1 vessel,normal,< 50% diameter narrowing
+54.0,female,non-anginal pain,160.0,201.0,false,normal,163.0,no,0.0,upsloping,1 vessel,normal,< 50% diameter narrowing
+54.0,male,asymptomatic,122.0,286.0,false,left ventricular hypertrophy,116.0,yes,3.2,flat,2 vessels,normal,
+56.0,male,asymptomatic,130.0,283.0,true,left ventricular hypertrophy,103.0,yes,1.6,downsloping,0 vessels,reversible defect,
+46.0,male,asymptomatic,120.0,249.0,false,left ventricular hypertrophy,144.0,no,0.8,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+49.0,female,atypical angina,134.0,271.0,false,normal,162.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+42.0,male,atypical angina,120.0,295.0,false,normal,162.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,male,atypical angina,110.0,235.0,false,normal,153.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+41.0,female,atypical angina,126.0,306.0,false,normal,163.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+49.0,female,asymptomatic,130.0,269.0,false,normal,163.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+61.0,male,typical angina,134.0,234.0,false,normal,145.0,no,2.6,flat,2 vessels,normal,
+60.0,female,non-anginal pain,120.0,178.0,true,normal,96.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+67.0,male,asymptomatic,120.0,237.0,false,normal,71.0,no,1.0,flat,0 vessels,normal,
+58.0,male,asymptomatic,100.0,234.0,false,normal,156.0,no,0.1,upsloping,1 vessel,reversible defect,
+47.0,male,asymptomatic,110.0,275.0,false,left ventricular hypertrophy,118.0,yes,1.0,flat,1 vessel,normal,> 50% diameter narrowing
+52.0,male,asymptomatic,125.0,212.0,false,normal,168.0,no,1.0,upsloping,2 vessels,reversible defect,
+62.0,male,atypical angina,128.0,208.0,true,left ventricular hypertrophy,140.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+57.0,male,asymptomatic,110.0,201.0,false,normal,126.0,yes,1.5,flat,0 vessels,fixed defect,< 50% diameter narrowing
+58.0,male,asymptomatic,146.0,218.0,false,normal,105.0,no,2.0,flat,1 vessel,reversible defect,> 50% diameter narrowing
+64.0,male,asymptomatic,128.0,263.0,false,normal,105.0,yes,0.2,flat,1 vessel,reversible defect,< 50% diameter narrowing
+51.0,female,non-anginal pain,120.0,295.0,false,left ventricular hypertrophy,157.0,no,0.6,upsloping,0 vessels,normal,< 50% diameter narrowing
+43.0,male,asymptomatic,115.0,303.0,false,normal,181.0,no,1.2,flat,0 vessels,normal,< 50% diameter narrowing
+42.0,female,non-anginal pain,120.0,209.0,false,normal,173.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+67.0,female,asymptomatic,106.0,223.0,false,normal,142.0,no,0.3,upsloping,2 vessels,normal,< 50% diameter narrowing
+76.0,female,non-anginal pain,140.0,197.0,false,ST-T wave abnormality,116.0,no,1.1,flat,0 vessels,normal,< 50% diameter narrowing
+70.0,male,atypical angina,156.0,245.0,false,left ventricular hypertrophy,143.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+57.0,male,atypical angina,124.0,261.0,false,normal,141.0,no,0.3,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+44.0,female,non-anginal pain,118.0,242.0,false,normal,149.0,no,0.3,flat,1 vessel,normal,< 50% diameter narrowing
+58.0,female,atypical angina,136.0,319.0,true,left ventricular hypertrophy,152.0,no,0.0,upsloping,2 vessels,normal,
+60.0,female,typical angina,150.0,240.0,false,normal,171.0,no,0.9,upsloping,0 vessels,normal,< 50% diameter narrowing
+44.0,male,non-anginal pain,120.0,226.0,false,normal,169.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+61.0,male,asymptomatic,138.0,166.0,false,left ventricular hypertrophy,125.0,yes,3.6,flat,1 vessel,normal,
+42.0,male,asymptomatic,136.0,315.0,false,normal,125.0,yes,1.8,flat,0 vessels,fixed defect,
+52.0,male,asymptomatic,128.0,204.0,true,normal,156.0,yes,1.0,flat,0 vessels,reversible defect,
+59.0,male,non-anginal pain,126.0,218.0,true,normal,134.0,no,2.2,flat,1 vessel,fixed defect,
+40.0,male,asymptomatic,152.0,223.0,false,normal,181.0,no,0.0,upsloping,0 vessels,reversible defect,> 50% diameter narrowing
+42.0,male,non-anginal pain,130.0,180.0,false,normal,150.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+61.0,male,asymptomatic,140.0,207.0,false,left ventricular hypertrophy,138.0,yes,1.9,upsloping,1 vessel,reversible defect,> 50% diameter narrowing
+66.0,male,asymptomatic,160.0,228.0,false,left ventricular hypertrophy,138.0,no,2.3,upsloping,0 vessels,fixed defect,< 50% diameter narrowing
+46.0,male,asymptomatic,140.0,311.0,false,normal,120.0,yes,1.8,flat,2 vessels,reversible defect,
+71.0,female,asymptomatic,112.0,149.0,false,normal,125.0,no,1.6,flat,0 vessels,normal,< 50% diameter narrowing
+59.0,male,typical angina,134.0,204.0,false,normal,162.0,no,0.8,upsloping,2 vessels,normal,> 50% diameter narrowing
+64.0,male,typical angina,170.0,227.0,false,left ventricular hypertrophy,155.0,no,0.6,flat,0 vessels,reversible defect,< 50% diameter narrowing
+66.0,female,non-anginal pain,146.0,278.0,false,left ventricular hypertrophy,152.0,no,0.0,flat,1 vessel,normal,< 50% diameter narrowing
+39.0,female,non-anginal pain,138.0,220.0,false,normal,152.0,no,0.0,flat,0 vessels,normal,< 50% diameter narrowing
+57.0,male,atypical angina,154.0,232.0,false,left ventricular hypertrophy,164.0,no,0.0,upsloping,1 vessel,normal,> 50% diameter narrowing
+58.0,female,asymptomatic,130.0,197.0,false,normal,131.0,no,0.6,flat,0 vessels,normal,< 50% diameter narrowing
+57.0,male,asymptomatic,110.0,335.0,false,normal,143.0,yes,3.0,flat,1 vessel,reversible defect,
+47.0,male,non-anginal pain,130.0,253.0,false,normal,179.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+55.0,female,asymptomatic,128.0,205.0,false,ST-T wave abnormality,130.0,yes,2.0,flat,1 vessel,reversible defect,
+35.0,male,atypical angina,122.0,192.0,false,normal,174.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+61.0,male,asymptomatic,148.0,203.0,false,normal,161.0,no,0.0,upsloping,1 vessel,reversible defect,
+58.0,male,asymptomatic,114.0,318.0,false,ST-T wave abnormality,140.0,no,4.4,downsloping,3 vessels,fixed defect,
+58.0,female,asymptomatic,170.0,225.0,true,left ventricular hypertrophy,146.0,yes,2.8,flat,2 vessels,fixed defect,
+58.0,male,atypical angina,125.0,220.0,false,normal,144.0,no,0.4,flat,0 vessels,reversible defect,< 50% diameter narrowing
+56.0,male,atypical angina,130.0,221.0,false,left ventricular hypertrophy,163.0,no,0.0,upsloping,0 vessels,reversible defect,< 50% diameter narrowing
+56.0,male,atypical angina,120.0,240.0,false,normal,169.0,no,0.0,downsloping,0 vessels,normal,< 50% diameter narrowing
+67.0,male,non-anginal pain,152.0,212.0,false,left ventricular hypertrophy,150.0,no,0.8,flat,0 vessels,reversible defect,> 50% diameter narrowing
+55.0,female,atypical angina,132.0,342.0,false,normal,166.0,no,1.2,upsloping,0 vessels,normal,< 50% diameter narrowing
+44.0,male,asymptomatic,120.0,169.0,false,normal,144.0,yes,2.8,downsloping,0 vessels,fixed defect,
+63.0,male,asymptomatic,140.0,187.0,false,left ventricular hypertrophy,144.0,yes,4.0,upsloping,2 vessels,reversible defect,
+63.0,female,asymptomatic,124.0,197.0,false,normal,136.0,yes,0.0,flat,0 vessels,normal,> 50% diameter narrowing
+41.0,male,atypical angina,120.0,157.0,false,normal,182.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
+59.0,male,asymptomatic,164.0,176.0,true,left ventricular hypertrophy,90.0,no,1.0,flat,2 vessels,fixed defect,
+57.0,female,asymptomatic,140.0,241.0,false,normal,123.0,yes,0.2,flat,0 vessels,reversible defect,> 50% diameter narrowing
+45.0,male,typical angina,110.0,264.0,false,normal,132.0,no,1.2,flat,0 vessels,reversible defect,> 50% diameter narrowing
+68.0,male,asymptomatic,144.0,193.0,true,normal,141.0,no,3.4,flat,2 vessels,reversible defect,
+57.0,male,asymptomatic,130.0,131.0,false,normal,115.0,yes,1.2,flat,1 vessel,reversible defect,
+57.0,female,atypical angina,130.0,236.0,false,left ventricular hypertrophy,174.0,no,0.0,flat,1 vessel,normal,> 50% diameter narrowing
+38.0,male,non-anginal pain,138.0,175.0,false,normal,173.0,no,0.0,upsloping,0 vessels,normal,< 50% diameter narrowing
